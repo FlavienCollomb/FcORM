@@ -5,7 +5,7 @@ FcORM
 Thanks `FcORM` and `FcORMSelection` you can enjoy a naive ORM system. For more details, read my [article](http://www.blog.flaviencollomb.fr/?p=34) (in french) about this subject on my blog.
 
 ##Dependencies
-`FcPDO` (can be found [here](https://github.com/FlavienCollomb/fcPDO)) or another connector with similar mpublic methods
+`FcPDO` (can be found [here](https://github.com/FlavienCollomb/fcPDO)) or another connector with similar public methods
 
 ##Usage
 To use `FcORM` and `FcORMSelection` in your website, simply include fcorm.selection.php in your PHP scripts. That's it! Super!
