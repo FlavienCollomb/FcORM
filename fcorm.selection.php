@@ -1,3 +1,5 @@
+<?php
+
 require_once dirname(__FILE__).'/fcorm.exception.php';
 require_once dirname(__FILE__).'/fcorm.php';
 
