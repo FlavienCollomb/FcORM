@@ -1,3 +1,5 @@
+<?php
+
 class InvalidConnectorException extends Exception {}
 class InvalidIdException extends Exception {}
 class InvalidFcORMException extends Exception {}
